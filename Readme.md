@@ -3,6 +3,13 @@
 ```sh
 The classic guess the number game with some extra features.
 ```
+## Tech Stack
+```sh
+* HTML
+* CSS
+* Javascript
+```
+
 
 ## Get Started
 
@@ -13,14 +20,4 @@ https://github.com/dollpriyanka/number_guess.git
 ```
 
 2. Go to the cloned directory
-3. Initialize the directory
 
-```sh
-npm init -y
-```
-
-4. Install dependencies
-
-```sh
-npm install
-```
